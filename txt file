@@ -1,0 +1,25 @@
+# month.txt
+
+
+rabi,November,December,January,February
+kharif1,March,April,May,June
+kharif2,July,August,September,October
+
+
+
+# season_taxt.txt
+rabi
+cereal,wheat,barley,maize
+pulses,lentil,grass pea,cheak pea,field pea
+oilseeds,mustard,linseed,sunflower
+vegetable,tomato,cauliflower,cabbage,carrot,onion,garlic,sweet potato
+kharif1
+cereal,maize,aus rice
+pulses,mugbean,cowpea
+oilseeds,sesame,sunflower
+vegetable,snake gourd,bottle gourd,bitter gourd,pumpkin,ash gourd
+kharif2
+cereal,aman rice,hybrid rice
+pulses,black gram
+oilseeds,soybean
+vegetable,green chili, okra,brinjil,arum
